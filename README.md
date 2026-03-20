@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+James+Andrei+Revilla;Aspiring+Software+Developer;Building+impactful+web+applications;Code+%7C+Coffee+%7C+Create" alt="Typing effect" />
 
 <!-- BIG BLUE AESTHETIC GIF -->
-<img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" alt="Blue Tech GIF" width="600" style="border-radius: 15px; margin-top: 10px;" />
+<img src="[https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif](https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif)" alt="Blue Tech GIF" width="600" style="border-radius: 15px; margin-top: 10px;" />
 
 <br><br>
 
