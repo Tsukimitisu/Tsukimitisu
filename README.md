@@ -36,9 +36,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tsukimitisu/Tsukimitisu/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tsukimitisu/Tsukimitisu/output/snake-light.svg" />
-  <img alt="Snake eating James's GitHub contributions" src="https://raw.githubusercontent.com/Tsukimitisu/Tsukimitisu/output/snake-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tsukimitisu/Tsukimitisu/output/snake-dark.svg?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tsukimitisu/Tsukimitisu/output/snake-light.svg?v=2" />
+  <img width="100%" alt="Snake eating James's GitHub contributions" src="https://raw.githubusercontent.com/Tsukimitisu/Tsukimitisu/output/snake-light.svg?v=2" />
 </picture>
 
 </div>
@@ -50,7 +50,11 @@
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Tsukimitisu/Tsukimitisu/projects/projects.svg" alt="James's projects" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tsukimitisu/Tsukimitisu/projects/projects.svg?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tsukimitisu/Tsukimitisu/projects/projects-light.svg?v=2" />
+  <img width="100%" src="https://raw.githubusercontent.com/Tsukimitisu/Tsukimitisu/projects/projects-light.svg?v=2" alt="James's projects" />
+</picture>
 
 </div>
 

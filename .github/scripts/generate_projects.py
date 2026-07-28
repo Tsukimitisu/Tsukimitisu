@@ -118,8 +118,7 @@ def donut_segments(languages, cx, cy, r, begin):
         out.append(
             f'<circle cx="{cx}" cy="{cy}" r="{r}" fill="none" stroke="{col}" stroke-width="9" '
             f'stroke-dasharray="{seg:.2f} {C - seg:.2f}" stroke-dashoffset="{-offset:.2f}" '
-            f'transform="rotate(-90 {cx} {cy})" opacity="0">'
-            f'<animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="{t:.2f}s" fill="freeze"/>'
+            f'transform="rotate(-90 {cx} {cy})">'
             f'<animate attributeName="stroke-dasharray" from="0 {C:.2f}" to="{seg:.2f} {C - seg:.2f}" '
             f'dur="0.6s" begin="{t:.2f}s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.3 0 0.2 1"/>'
             f'</circle>')
@@ -138,8 +137,8 @@ def card(p, x, y, idx):
     repo = repo.rstrip("/")
     href = f"https://github.com/{esc(repo)}"
     a(f'<a href="{href}" target="_blank">')
-    a(f'<g opacity="0" transform="translate({x},{y})">')
-    a(f'<animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="{b:.2f}s" fill="freeze"/>')
+    # Keep cards visible without SMIL support; GitHub may render SVG animation as static.
+    a(f'<g transform="translate({x},{y})">')
 
     # card shell — mini terminal
     a(f'<rect width="{CARD_W}" height="{CARD_H}" rx="12" fill="{PANEL}" stroke="{STROKE}">'
