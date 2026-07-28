@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="E-Learning System">
+  <defs><linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#22D3EE"/><stop offset="1" stop-color="#A78BFA"/></linearGradient></defs>
+  <rect width="64" height="64" rx="14" fill="#0A101F"/>
+  <path d="m9 24 23-12 23 12-23 12z" fill="none" stroke="url(#g)" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M18 31v12c9 7 19 7 28 0V31M55 24v17" fill="none" stroke="#10B981" stroke-width="4" stroke-linecap="round"/>
+</svg>
