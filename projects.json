@@ -1,0 +1,44 @@
+[
+  {
+    "name": "10th West",
+    "repo": "Tsukimitisu/10th-West-E-Commerce-System",
+    "logo": "10th-west.svg",
+    "description": "Full-stack motorcycle e-commerce platform with inventory, checkout, shipping and admin tools",
+    "tags": ["React", "Node.js", "PostgreSQL"]
+  },
+  {
+    "name": "TrackWise",
+    "repo": "Tsukimitisu/TrackWise",
+    "logo": "trackwise.svg",
+    "description": "Role-based OJT monitoring for attendance, reports, evaluations, progress and analytics",
+    "tags": ["React", "TypeScript", "Laravel"]
+  },
+  {
+    "name": "Gourmet Express",
+    "repo": "Tsukimitisu/Mini-QR-Ordering-System",
+    "logo": "gourmet-express.svg",
+    "description": "Mobile-friendly QR restaurant ordering with menu, checkout, payments and order tracking",
+    "tags": ["PHP", "MySQL", "Bootstrap"]
+  },
+  {
+    "name": "OJT Documentation",
+    "repo": "Tsukimitisu/OJT-Docu-HTML",
+    "logo": "ojt-docs.svg",
+    "description": "Structured web documentation of on-the-job training activities and daily progress",
+    "tags": ["HTML", "CSS", "Documentation"]
+  },
+  {
+    "name": "Gym Management",
+    "repo": "Tsukimitisu/Gym-Management-System",
+    "logo": "gym-management.svg",
+    "description": "Desktop management system for organizing gym members, records and operations",
+    "tags": ["VB.NET", "Desktop", "Database"]
+  },
+  {
+    "name": "E-Learning System",
+    "repo": "Tsukimitisu/E---Learning-Management-System",
+    "logo": "e-learning.svg",
+    "description": "Datamex learning management platform for courses, assessments, materials and users",
+    "tags": ["PHP", "MySQL", "JavaScript"]
+  }
+]
