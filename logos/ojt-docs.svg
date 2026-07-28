@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="OJT Documentation">
+  <defs><linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#7C3AED"/><stop offset="1" stop-color="#22D3EE"/></linearGradient></defs>
+  <rect width="64" height="64" rx="14" fill="#0A101F"/>
+  <path d="M18 11h20l9 9v33H18z" fill="none" stroke="url(#g)" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M38 11v10h9M25 31h15M25 39h15M25 47h10" fill="none" stroke="#10B981" stroke-width="3" stroke-linecap="round"/>
+</svg>
